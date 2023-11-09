@@ -11,11 +11,12 @@
 <a href="https://www.figma.com/file/1Gak1OS08vup6pmGtZYgxI/Andr%C3%A9s-Mauricio-Gonzalez-Acosta?type=design&node-id=5%3A256&mode=design&t=oHvtbb3oJahsBgJo-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
-<img src="./public/images/punto-2.png" alt="punto 2"
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño en CSS</h2>
 
 <h2>Punto 4: Títulos</h2>
+<img src="./public/images/punto-4.png" alt="punto 4">
 
 <h2>Punto 5: Parrafo</h2>
 
