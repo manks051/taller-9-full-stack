@@ -1,0 +1,36 @@
+p {
+    margin: 100px;
+}
+
+p span {
+    font-size: 32px;
+}
+
+.underlined-1 {
+    color: green;
+    font-size: 32px;
+}
+
+.line-1 {
+    color: red;
+    font-size: 32px;
+}
+
+.two-under-over-lines {
+    text-decoration: underline overline;
+} 
+
+.line-2 {
+    font-size: 70px;
+}
+
+b {
+    color: blue;
+    font-size: 35px;
+}
+
+.underlined-2 {
+    color: red;
+    font-size: 35px;
+    text-decoration: underline;
+}

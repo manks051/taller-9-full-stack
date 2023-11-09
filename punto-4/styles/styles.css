@@ -1,16 +1,16 @@
 h1 {
     text-align: center;
-    line-height: 50px;
+    line-height: 60px;
     font-family: Arial
     
 }
 
-.text__blue {
+.title__blue {
     color: blue;
     text-shadow: 0px 0px 40px blue;
 }
 
-.text__red {
+.title__red {
     color: red;
     text-shadow: 0px 0px 40px red;
 }
