@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    margin: 100px;
+    text-align: left;
+    background-color: gray;
+}
+
+body div {
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.link-1 a {
+    color: yellow;
+}
+
+.link-2 a {
+    color: purple;
+}
