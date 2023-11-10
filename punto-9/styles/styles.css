@@ -1,0 +1,11 @@
+body table, th, td {
+    background: yellow;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 50px;
+}
+
+thead {
+    color: red;
+}
+
