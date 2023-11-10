@@ -1,0 +1,27 @@
+body div {
+    background-color: rgb(148, 79, 212);
+    padding: 40px 35px;
+    
+}
+
+button {
+    border: 0;
+    cursor: pointer;
+    background: blue;
+    font-size: 20px;
+    color: white;
+    padding: 4px  0px;
+}
+
+button span {
+    background-color: rgb(148, 79, 212);
+    padding: 20px 20px;
+}
+
+button:hover span {
+    background: none;
+}
+
+button:active {
+    transition: scale(0.9);
+}
