@@ -8,6 +8,7 @@ body, div {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: linear-gradient(25deg, wheat, #d3ea1d);
 }
 
 div {
